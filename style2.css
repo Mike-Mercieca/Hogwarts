@@ -1,0 +1,28 @@
+.mt-5 {
+    margin-top: 5px;
+  }
+
+  body { 
+	background-color: black; 
+}
+
+.thick-white-border {
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+  }
+
+  h1 {
+    color: #ece8d9;
+    font-size: 50px;
+  }
+
+  p {
+    color: #ece8d9;
+  }
+  
+  div {
+    cursor:crosshair;
+}
+  
